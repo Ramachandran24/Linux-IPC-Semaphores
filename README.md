@@ -29,6 +29,9 @@ Execute the C Program for the desired output.
 $ ./sem.o 
 
 
+![alt text](semaphore.png)
+
+
 $ ipcs
 
 
